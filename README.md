@@ -1,4 +1,4 @@
-|Titulo | Categoria | Receta | Ingredientes|
+|Título | Categoría | Receta | Ingredientes|
 | --- | --- | --- | --- |
 |Bacalao al vapor sobre crema de guisantes y calabaza | Pescado |  | Bacalao, Guisantes, Calabaza|
 |Dorada a la sal | Pescado |  | Dorada, Sal Gorda, Aceite|
